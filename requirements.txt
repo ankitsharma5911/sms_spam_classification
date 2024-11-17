@@ -8,3 +8,4 @@ ipykernel
 flask
 joblib
 gunicorn
+stramlit
