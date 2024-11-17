@@ -1,6 +1,6 @@
-# sms_spam_detection
+# Email/SMS spam_detection
 
-to detect spam messages in SMS, we can use a combination of natural language processing (NLP) and
+To detect spam messages in SMS, we can use a combination of natural language processing (NLP) and
 machine learning techniques. Here's a basic approach:
 ### Step 1: Data Collection
 Collect a dataset of SMS messages, both spam and non-spam. You can use publicly available datasets
