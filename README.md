@@ -51,3 +51,12 @@ conda activate venv
 ```
 pip install -r requirements.txt
 ```
+
+4. run the code
+```
+python app.py
+```
+code will run on localhost
+```
+http://127.0.0.1:5000
+```
