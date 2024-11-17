@@ -34,15 +34,20 @@ Here's a simple example using Python and the scikit-learn library:
 
 
 ## to run this Code follow the following steps:
-1. create the virtual environment
-'''
-conda create --p venv python=3.9
-'''
-
-2. clone the repository
-
-'''
+1. clone the repository
+```
 git clone https://github.com/ankitsharma5911/sms_spam_classification.git
+cd sms_spam_classification
+```
 
-'''
+2. create the virtual environment
 
+```
+conda create --p venv python=3.9
+conda activate venv
+```
+
+3. install the required packages
+```
+pip install -r requirements.txt
+```
