@@ -22,7 +22,7 @@ Choose a suitable machine learning algorithm, such as:
 * Naive Bayes
 * Support Vector Machines (SVM)
 * Random Forest
-* Convolutional Neural Networks (CNN)
+* Artificial Neural Networks (ANN)
 Train the model using the preprocessed data and features.
 ### Step 5: Model Evaluation
 Evaluate the performance of the trained model using metrics like
